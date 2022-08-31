@@ -5,3 +5,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js.github.io&show_icons=true&theme=merko&border_radius=10&border_color=0A0F0B)](https://Ju1-js.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=CssPeriodicTable&show_icons=true&theme=merko&border_radius=10&border_color=0A0F0B)](https://Ju1-js.github.io/CssPeriodicTable)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js&show_icons=true&theme=merko&border_radius=10&border_color=0A0F0B)](https://github.com/Ju1-js/Ju1-js)
+
+## Want to get in touch?
+[💬 Discord](https://discord.com/users/427493897225109504)

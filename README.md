@@ -4,7 +4,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=25th-hour-dynamic&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B)](https://github.com/Ju1-js/25th-hour-dynamic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js.github.io&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B)](https://Ju1-js.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=CssPeriodicTable&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B)](https://Ju1-js.github.io/CssPeriodicTable)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B)](https://github.com/Ju1-js/Ju1-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju1-js&repo=discord-webhook&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B)](https://github.com/Ju1-js/discord-webhook)
 
 ## Want to get in touch?
 <a target="_blank" href="https://discord.com/users/427493897225109504">💬 Discord</a>

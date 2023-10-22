@@ -9,4 +9,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ju1-js&theme=transparent&mode=weekly&border=0A0F0B)
 
 ## Want to get in touch?
-<a target="_blank" href="https://discord.com/users/427493897225109504">💬 Discord</a>
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427493897225109504)

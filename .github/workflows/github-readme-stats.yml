@@ -1,0 +1,49 @@
+name: Cache GitHub README Stats
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 0 */4 * * *
+
+jobs:
+  download-assets:
+    runs-on: ubuntu-latest
+    name: Download assets
+
+    steps:
+      - name: Download the stats file
+        run: curl 'https://g-r-s.vercel.app/api?username=Ju1-js&include_all_commits=true&locale=en&show=prs_merged&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B' -o stats.svg
+
+      - name: Download the top languages file
+        run: curl 'https://g-r-s.vercel.app/api/top-langs?username=Ju1-js&size_weight=0.4&count_weight=0.6&langs_count=20&show_icons=true&theme=transparent&layout=compact&border_radius=10&border_color=0A0F0B' -o top-langs.svg
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: assets
+          path: |
+            stats.svg
+            top-langs.svg
+
+  push-assets:
+    runs-on: ubuntu-latest
+    name: Push assets
+    needs: [download-assets]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: assets
+          path: assets
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: "chore(assets): update cached GRS files"
+          branch: main
+          commit_user_name: Ju1-js
+          commit_user_email: 40339350+Ju1-js@users.noreply.github.com
+          commit_author: Ju1-js <40339350+Ju1-js@users.noreply.github.com>

@@ -29,8 +29,8 @@ jobs:
         with:
           name: assets
           path: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg
 
   push-assets:
     runs-on: ubuntu-latest

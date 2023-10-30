@@ -11,3 +11,9 @@
 ## Want to get in touch?
 <!--[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427493897225109504)-->
 ...Coming soon.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>

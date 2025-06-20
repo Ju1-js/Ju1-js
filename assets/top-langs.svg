@@ -240,7 +240,7 @@
           data-testid="lang-progress"
           x="220.73999999999995"
           y="0"
-          width="15.18"
+          width="15.17"
           height="8"
           fill="#89e051"
         />
@@ -248,7 +248,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.91999999999996"
+          x="225.90999999999994"
           y="0"
           width="15.16"
           height="8"
@@ -258,7 +258,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.07999999999996"
+          x="231.06999999999994"
           y="0"
           width="15.1"
           height="8"
@@ -268,7 +268,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.17999999999995"
+          x="236.16999999999993"
           y="0"
           width="14.15"
           height="8"
@@ -278,7 +278,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.32999999999996"
+          x="240.31999999999994"
           y="0"
           width="12.92"
           height="8"
@@ -288,7 +288,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.24999999999994"
+          x="243.23999999999992"
           y="0"
           width="12.05"
           height="8"
@@ -298,7 +298,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.29999999999995"
+          x="245.28999999999994"
           y="0"
           width="12.01"
           height="8"
@@ -308,7 +308,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.30999999999995"
+          x="247.29999999999993"
           y="0"
           width="11.379999999999999"
           height="8"
@@ -318,7 +318,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.68999999999994"
+          x="248.67999999999992"
           y="0"
           width="11.32"
           height="8"

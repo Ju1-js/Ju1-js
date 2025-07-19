@@ -91,7 +91,7 @@
           y="0.5"
           rx="10"
           height="99%"
-          stroke="#0A0F0B"
+          stroke="#00000000"
           width="299"
           fill="#ffffff00"
           stroke-opacity="1"

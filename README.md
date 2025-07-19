@@ -1,6 +1,4 @@
 <div align="center">
-
-<div>
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="top">
     <td width="50%">
@@ -17,11 +15,6 @@
     </td>
   </tr>
 </table>
-</div>
-
-<br>
-
-<div>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr valign="top">
     <td width="50%">
@@ -49,8 +42,6 @@
     </td>
   </tr>
 </table>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />

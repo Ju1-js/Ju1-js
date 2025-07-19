@@ -23,10 +23,10 @@ jobs:
 
       # --- GitHub README Stats ---
       - name: Download the stats file
-        run: curl 'https://g-r-s.vercel.app/api?username=Ju1-js&include_all_commits=true&locale=en&show=prs_merged&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B' -o assets/stats.svg
+        run: curl 'https://g-r-s.vercel.app/api?username=Ju1-js&include_all_commits=true&locale=en&show=prs_merged&show_icons=true&theme=transparent&border_radius=10&border_color=00000000' -o assets/stats.svg
 
       - name: Download the top languages file
-        run: curl 'https://g-r-s.vercel.app/api/top-langs?username=Ju1-js&size_weight=0.4&count_weight=0.6&langs_count=20&show_icons=true&theme=transparent&layout=compact&border_radius=10&border_color=0A0F0B' -o assets/top-langs.svg
+        run: curl 'https://g-r-s.vercel.app/api/top-langs?username=Ju1-js&size_weight=0.4&count_weight=0.6&langs_count=20&show_icons=true&theme=transparent&layout=compact&border_radius=10&border_color=00000000' -o assets/top-langs.svg
 
       # --- Contribution Animation (snk) ---
       - name: Generate contribution SVGs

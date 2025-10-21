@@ -11,7 +11,7 @@
   <tr style="display: none"></tr>
   <tr>
     <td width="50%">
-      <img src="https://grss.vercel.app?user=Ju1-js&theme=transparent&mode=weekly&border=00000000" alt="GitHub Streak" />
+      <img src="assets/streak.svg" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -19,12 +19,12 @@
   <tr valign="top">
     <td width="50%">
       <a href="https://github.com/Ju1-js/25th-hour-dynamic">
-        <img src="https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=25th-hour-dynamic&show_icons=true&theme=transparent&border_radius=10&border_color=00000000" alt="25th-hour-dynamic" width="100%">
+        <img src="assets/25th-hour-dynamic.svg" alt="25th-hour-dynamic" width="100%">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Ju1-js/Ju1-js.github.io">
-        <img src="https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js.github.io&show_icons=true&theme=transparent&border_radius=10&border_color=00000000" alt="Ju1-js.github.io" width="100%">
+        <img src="assets/Ju1-js.github.io.svg" alt="Ju1-js.github.io" width="100%">
       </a>
     </td>
   </tr>
@@ -32,12 +32,12 @@
   <tr valign="top">
     <td width="50%">
       <a href="https://github.com/Ju1-js/Vercel-Troll-Site">
-        <img src="https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=Vercel-Troll-Site&show_icons=true&theme=transparent&border_radius=10&border_color=00000000" alt="Vercel-Troll-Site" width="100%">
+        <img src="assets/Vercel-Troll-Site.svg" alt="Vercel-Troll-Site" width="100%">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Ju1-js/discord-webhook">
-        <img src="https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=discord-webhook&show_icons=true&theme=transparent&border_radius=10&border_color=00000000" alt="discord-webhook" width="100%">
+        <img src="assets/discord-webhook.svg" alt="discord-webhook" width="100%">
       </a>
     </td>
   </tr>

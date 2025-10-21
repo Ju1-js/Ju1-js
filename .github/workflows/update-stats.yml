@@ -27,6 +27,22 @@ jobs:
 
       - name: Download the top languages file
         run: curl 'https://g-r-s.vercel.app/api/top-langs?username=Ju1-js&size_weight=0.4&count_weight=0.6&langs_count=20&show_icons=true&theme=transparent&layout=compact&border_radius=10&border_color=00000000' -o assets/top-langs.svg
+        
+      - name: Download the streak stats file
+        run: curl 'https://grss.vercel.app?user=Ju1-js&theme=transparent&mode=weekly&border=00000000' -o assets/streak.svg
+
+      # --- GitHub Pinned Repos ---
+      - name: Download the 25th-hour-dynamic pin
+        run: curl 'https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=25th-hour-dynamic&show_icons=true&theme=transparent&border_radius=10&border_color=00000000' -o assets/25th-hour-dynamic.svg
+        
+      - name: Download the Ju1-js.github.io pin
+        run: curl 'https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=Ju1-js.github.io&show_icons=true&theme=transparent&border_radius=10&border_color=00000000' -o assets/Ju1-js.github.io.svg
+
+      - name: Download the Vercel-Troll-Site pin
+        run: curl 'https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=Vercel-Troll-Site&show_icons=true&theme=transparent&border_radius=10&border_color=00000000' -o assets/Vercel-Troll-Site.svg
+
+      - name: Download the discord-webhook pin
+        run: curl 'https://g-r-s.vercel.app/api/pin/?username=Ju1-js&repo=discord-webhook&show_icons=true&theme=transparent&border_radius=10&border_color=00000000' -o assets/discord-webhook.svg
 
       # --- Contribution Animation (snk) ---
       - name: Generate contribution SVGs

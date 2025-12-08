@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ju1-js' GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 56, Total Commits  : 7988, Total PRs: 70, Total PRs Merged: 44, Total Issues: 17, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 56, Total Commits  : 7989, Total PRs: 70, Total PRs Merged: 44, Total Issues: 18, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.5302702411053;
+        stroke-dashoffset: 108.17268807469026;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >17</text>
+      >18</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">

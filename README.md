@@ -23,21 +23,21 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Ju1-js/Ju1-js.github.io">
-        <img src="assets/Ju1-js.github.io.svg" alt="Ju1-js.github.io" width="100%">
+      <a href="https://github.com/Ju1-js/seanime-docker">
+        <img src="assets/seanime-docker.svg" alt="Ju1-js.github.io" width="100%">
       </a>
     </td>
   </tr>
   <tr style="display: none"></tr>
   <tr valign="top">
     <td width="50%">
-      <a href="https://github.com/Ju1-js/Vercel-Troll-Site">
-        <img src="assets/Vercel-Troll-Site.svg" alt="Vercel-Troll-Site" width="100%">
+      <a href="https://github.com/Ju1-js/discord-webhook">
+        <img src="assets/discord-webhook.svg" alt="discord-webhook" width="100%">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Ju1-js/discord-webhook">
-        <img src="assets/discord-webhook.svg" alt="discord-webhook" width="100%">
+      <a href="https://github.com/Ju1-js/Vercel-Troll-Site">
+        <img src="assets/Vercel-Troll-Site.svg" alt="Vercel-Troll-Site" width="100%">
       </a>
     </td>
   </tr>
@@ -51,6 +51,9 @@
 ---
 
 ### Want to get in touch?
+
 <!--[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427493897225109504)-->
+
 ...Coming soon.
+
 </div>
